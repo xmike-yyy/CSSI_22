@@ -1,0 +1,85 @@
+body {
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+    font: "IBM Plex Sans", sans-serif;
+    color: white;
+  }
+  
+  section {
+    padding: 20px;
+    margin: 20px;
+    background-color: green;
+  }
+  #outer{
+    background-color: yellow;
+  }
+  .pfp{
+    display: flex;
+    margin: auto;
+    padding-left: 40px;
+  }
+  
+  
+  
+  h1 {
+    text-align: center;
+    font-size: 64px;
+  }
+  
+  h3 {
+    text-align: center;
+    font-style: italic;
+  }
+  
+  div {
+    padding: 20px;
+    margin: 20px;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+  }
+  .box{
+    background-color: yellow;
+    color: white
+  }
+  
+  button{
+    margin-bottom:5px;
+  }
+  
+  
+  h2 {
+    font-size: 34px;
+  }
+  
+  h4 {
+    font-size: 30px;
+  }
+  
+  p {
+    margin-top: 30px;
+  }
+  
+  h5 {
+    font-size: 30px;
+    text-align: right;
+  }
+  
+  img {
+    width: 100%;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  footer {
+    padding: 30px;
+    padding-top: 20px;
+    margin-bottom: -20px;
+    margin-left: -40px;
+    margin-right: -40px;
+    background-color: red;
+    text-align: center;
+    color: white;
+  }
